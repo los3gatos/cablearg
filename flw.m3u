@@ -22,19 +22,19 @@ https://live-01-02-eltrece.vodgc.net:443/eltrecetv/tracks-v2a1/mono.m3u8
 http://181.209.95.29:8000/play/a0a9/index.m3u8
 
 #EXTINF:-1 tvg-id="TN.ar" tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/02-TN.png" group-title="Nacionales", TN
-http://181.209.114.13:8000/play/a058/index.m3u8
+http://181.13.173.86:8000/play/a0ap/index.m3u8
 
 #EXTINF:-1 tvg-id="A24.ar" tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/02-A24.png" group-title="Nacionales", A24
 https://g1.vxral-hor.transport.edge-access.net/a15/ngrp:a24-100056_all/a24-100056_720p.m3u8
 
 #EXTINF:-1 tvg-id="C5N.ar" tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/02-C5N.png" group-title="Nacionales", C5N
-http://181.209.114.13:8000/play/a01p/index.m3u8
+http://181.13.173.86:8000/play/a01p/index.m3u8
 
 #EXTINF:-1 tvg-id="CronicaTV.ar" tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/02-Cronica.png" group-title="Nacionales", Cronica HD
 https://g4.mc-slo.transport.edge-access.net/a14/ngrp:cronicatv_video1-100044_all/cronicatv_video1-100044_720p.m3u8
 
 #EXTINF:-1 tvg-id="Canal26.ar" tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/02-Canal26.png" group-title="Nacionales", Canal 26
-http://181.209.114.13:8000/play/a01r/index.m3u8
+http://181.13.173.86:8000/play/a01r/index.m3u8
 
 #EXTINF:-1 tvg-id="LaNacionPlus.ar" tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/02-LN.png" group-title="Nacionales", La Nación +
 http://181.13.173.86:8000/play/a01s/index.m3u8
@@ -46,7 +46,7 @@ https://live-01-07-ciudad.vodgc.net/live-01-07-ciudad.vodgc.net/index.m3u8
 http://190.94.186.158:8000/play/a0bc/index.m3u8
 
 #EXTINF:-1 tvg-id="Encuentro.ar" tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/01-Encuentro.png" audio-track="spa"  group-title="Nacionales", Encuentro
-http://181.209.114.13:8000/play/a01m/index.m3u8
+http://181.78.27.128:8000/play/a04t/index.m3u8
 
 #EXTINF:-1 tvg-id="CNNenEspanol.us" tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/03-CNNEsp.png" tvg-language="Spanish" group-title="Nacionales", CNN en Español
 http://181.13.173.86:8000/play/a0ab/index.m3u8
@@ -116,10 +116,10 @@ http://200.115.96.66:4000/play/a0e0/index.m3u8
 http://181.13.173.86:8000/play/a01v/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/07-Espn.png" group-title="Deportes", ESPN Premium 
-http://181.209.114.13:8000/play/a078/index.m3u8
+http://181.13.173.86:8000/play/a078/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/07-TNTSports.png" group-title="Deportes", TNT Sports 
-http://181.209.114.13:8000/play/a02u/index.m3u8
+http://181.13.173.86:8000/play/a02u/index.m3u8
 
 
 
@@ -168,25 +168,25 @@ http://45.230.199.108:8000/play/a00g/index.m3u8
 http://181.78.27.128:8000/play/a030/index.m3u8
 
 #EXTINF:-1 tvg-id="ar#hbo-2-hd" tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/05-HBO2.png" audio-track="spa" group-title="HBO", HBO 2
-http://181.209.114.13:8000/play/a06q/index.m3u8
+http://181.13.173.86:8000/play/a06q/index.m3u8
 
 #EXTINF:-1 tvg-id="ar#hbo-plus-este" tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/05-HBOPlus.png" audio-track="spa" group-title="HBO", HBO Plus
 http://181.78.27.128:8000/play/a027/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mariano2718/icons/main/HBO%20Mundi.png"group-title="HBO", HBO Mundi
-http://181.209.114.13:8000/play/a02a/index.m3u8
+http://181.13.173.86:8000/play/a02a/index.m3u8
 
 #EXTINF:-1 tvg-id="HBOPopLatinAmerica.us" tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/05-HBOPop.png" audio-track="spa" group-title="HBO", HBO Pop
 http://181.176.153.106:8090/play/a0qc/index.m3u8
 
 #EXTINF:-1 tvg-id="HBOXtremeLatinAmerica.us" tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/05-HBOXtreme.png" audio-track="spa" group-title="HBO", HBO Xtreme
-http://181.209.114.13:8000/play/a02b/index.m3u8
+http://181.13.173.86:8000/play/a02b/index.m3u8
 
 #EXTINF:-1 tvg-id="ar#hbo-family-hd" tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/05-HBOFamiliy.png" audio-track="spa" group-title="HBO", HBO Family
-http://181.209.114.13:8000/play/a06r/index.m3u8
+http://181.13.173.86:8000/play/a06r/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/HBO_Signature.svg/135px-HBO_Signature.svg.png" group-title="HBO", HBO Signature
-http://181.209.114.13:8000/play/a02c/index.m3u8
+http://181.13.173.86:8000/play/a02c/index.m3u8
 
 
 
@@ -408,7 +408,7 @@ http://181.13.173.86:8000/play/a02k/index.m3u8
 http://181.13.173.86:8000/play/a02m/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://images.ctfassets.net/ugxciox4nyye/6bFkcbsklRXLeB2ajrnCl8/c5ccbf53c3ab168c6448fb76265d5778/canal-quiero-musica.png?fm=webp&q=80" group-title="Musica" , Quiero Música
-http://181.209.114.13:8000/play/a02n/index.m3u8
+http://181.13.173.86:8000/play/a02n/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/W2KdC8bXe-lXWS7ki5lcoW9cJ_59kNiiiMmCvbfU6pM6Dj1lLVoRZmanBdJ3oXcVzzUbhymr2A=s176-c-k-c0x00ffffff-no-rj" group-title="Musica", VORTERIX
 https://g5.proy-hor.transport.edge-access.net/b04/ngrp:vorterix_video1-20057_all/vorterix_video1-20057_540p.m3u8
@@ -446,7 +446,7 @@ https://stratus.stream.cespi.unlp.edu.ar/hls/tvunlp.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://telecentro.com.ar/img/cm/channels/rai@2x.png" group-title="Internacionales", RAI
-http://181.209.114.13:8000/play/a02p/index.m3u8
+http://181.13.173.86:8000/play/a02p/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRpSI5D9txUQlXVE0jnNLq48m5QVxeEdBQFJg&s" group-title="Internacionales", TV Chile
 http://187.102.208.83:50000/play/a05b/index.m3u8
