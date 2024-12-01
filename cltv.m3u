@@ -2,7 +2,7 @@
 
 
 #EXTINF:-1 tvg-logo="https://images.ctfassets.net/ugxciox4nyye/17nlvY7TZkJ8JxLV8EsRrJ/165f3a1fe19f6db1c390c3dc6423ad66/CC_canal-7.png?fm=webp&q=80" group-title="locales" , CANAL DE LA CIUDAD
-http://181.209.114.13:8000/play/a06e/index.m3u8
+http://181.13.173.86:8000/play/a06e/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://images.ctfassets.net/ugxciox4nyye/5yCPV36WLATWGEgkWv6h3D/5cc84285f9792100a4444091ddd3999b/07_BRAVO-TV-entretenimiento.png?fm=webp&q=80" group-title="Nacionales" , BRAVO TV
 http://176.96.137.173:1234/stream/latino/bravotv/master.m3u8
@@ -26,13 +26,13 @@ http://181.209.95.29:8000/play/a0a9/index.m3u8
 https://live-01-02-eltrece.vodgc.net:443/eltrecetv/tracks-v2a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://images.ctfassets.net/ugxciox4nyye/P9DSwbBtpDc64qzkkvaVy/1f341a80ea6da24308d5fe5dd3f610a0/14_canal-todo-noticias.png?fm=webp&q=80" group-title="Nacionales" , Todo Noticias
-http://181.209.114.13:8000/play/a058/index.m3u8
+http://181.13.173.86:8000/play/a0ap/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://images.ctfassets.net/ugxciox4nyye/1EzjHrOUp9kFWVibh33PBx/24e13bd53138b4aa07e5bc88517b888b/05_America24.png?fm=webp&q=80" group-title="Nacionales" , A24
 https://g1.vxral-hor.transport.edge-access.net/a15/ngrp:a24-100056_all/a24-100056_720p.m3u8
 
 #EXTINF:-1 tvg-logo="https://images.ctfassets.net/ugxciox4nyye/3bv68hDHnpg1gktGn6qdKS/03fd84d75e4bf52c25e76e89cfef9d5d/06_C5N.png?fm=webp&q=80" group-title="Nacionales" , C5N 
-http://181.209.114.13:8000/play/a01p/index.m3u8
+http://181.13.173.86:8000/play/a01p/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://images.ctfassets.net/ugxciox4nyye/cA702Z8R51jE9iHCMRUNQ/22dac305e0bd1e2b8de00c05280611f4/07_Cronica.png?fm=webp&q=80" group-title="Nacionales" , Cronica
 https://g4.mc-slo.transport.edge-access.net/a14/ngrp:cronicatv_video1-100044_all/cronicatv_video1-100044_720p.m3u8
@@ -44,7 +44,7 @@ http://181.13.173.86:8000/play/a01s/index.m3u8
 http://190.11.130.46/mnp/ip/output.mpd
 
 #EXTINF:-1 tvg-logo="https://images.ctfassets.net/ugxciox4nyye/44c39L5vrAJMmitx6stmVN/aada5123e58530c834a4715aafce63e8/20_CANAL-26-noticias.png?fm=webp&q=80" group-title="Nacionales" , CANAL 26
-http://181.209.114.13:8000/play/a01r/index.m3u8
+http://181.13.173.86:8000/play/a01r/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://images.ctfassets.net/ugxciox4nyye/40oFdOwjbZ5W32HhJvZ5SY/3aadf330f22bae03fb8e886bfc3c4a1a/09_Encuentro.png?fm=webp&q=80" group-title="Nacionales" , ENCUENTRO
 http://181.78.27.128:8000/play/a04t/index.m3u8
@@ -113,10 +113,10 @@ http://181.13.173.86:8000/play/a01w/index.m3u8
 http://200.115.96.66:4000/play/a0e0/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://images.ctfassets.net/ugxciox4nyye/1m48kPqvytUYePblxkLeXF/3b04e0bb9875fef90320938dbbb811fe/Canal_-_ESPN_Sport_Premium.png?fm=webp&q=80" group-title="Deportes" , ESPN PREMIUN
-http://181.209.114.13:8000/play/a078/index.m3u8
+http://181.13.173.86:8000/play/a078/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://images.ctfassets.net/ugxciox4nyye/6iImzHdrQ2ec0JbRAFKEDG/354cf6196b96de87f6bc2e195e7e866b/Premium_02_TNTSports-color.png?fm=webp&q=80" group-title="Deportes" , TNT SPORTS
-http://181.209.114.13:8000/play/a02u/index.m3u8
+http://181.13.173.86:8000/play/a02u/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://images.ctfassets.net/ugxciox4nyye/4vHPfk0CvMP0EJNkC80AmI/4ab2051a0484bb03dc8ab5ab7cfd62e1/25_DiscoveryKids.png?fm=webp&q=80" group-title="Infantiles" , Discovery Kids
 http://181.13.173.86:8000/play/a06t/index.m3u8
@@ -251,25 +251,25 @@ http://45.232.148.101:8000/play/a05p/index.m3u8
 http://181.78.27.128:8000/play/a030/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://images.ctfassets.net/ugxciox4nyye/69ZCAfInUfsT4Q4HKNqenB/e663327079caa7727a6c92f421375c47/Premium_08_HBO2.png?fm=webp&q=80" group-title="Premium" , HBO 2
-http://181.209.114.13:8000/play/a06q/index.m3u8
+http://181.13.173.86:8000/play/a06q/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://images.ctfassets.net/ugxciox4nyye/6ebb9rED2Ut2MWogfEMWq2/ac8d80f6fd0c403474144aee4723510b/Premium_06_HBOPlus.png?fm=webp&q=80" group-title="Premium" , HBO PLUS HD
 http://181.78.27.128:8000/play/a027/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://images.ctfassets.net/ugxciox4nyye/5bKzSwd0Mu1shRgqL7xwWD/80c78ad02cdc722d2035cbe4395fb5f8/Premium_03_HBOFamily.png?fm=webp&q=80" group-title="Premium" , HBO FAMILY HD
-http://181.209.114.13:8000/play/a06r/index.m3u8
+http://181.13.173.86:8000/play/a06r/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://images.ctfassets.net/ugxciox4nyye/6jfONrEkrlw7SiKxsIsZr1/dea17656d92bae154876d07dc1391863/Premium_09_HBOExtreme.png?fm=webp&q=80" group-title="Premium" , HBO Xtreme
-http://181.209.114.13:8000/play/a02b/index.m3u8
+http://181.13.173.86:8000/play/a02b/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://images.ctfassets.net/ugxciox4nyye/26mE7OYl09nkFyQcGMv4mo/4190f92a6b036b9c6f710a6849490376/Premium_05_HBOMundi.png?fm=webp&q=80" group-title="Premium" , HBO Mundi
-http://181.209.114.13:8000/play/a02a/index.m3u8
+http://181.13.173.86:8000/play/a02a/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://images.ctfassets.net/ugxciox4nyye/3OamYggD5kfGpnHPj6LcN6/c06f94dbe8efe062bd7d85825acb283e/Premium_10_HBOPOP.png?fm=webp&q=80" group-title="Premium" , HBO POP
 http://181.176.153.106:8090/play/a0qc/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://images.ctfassets.net/ugxciox4nyye/77tiTKhe5p80XL5mgv2GX4/17c2b387b7a33cb13dbd5abbec8fe5ba/Premium_07_HBOSignature.png?fm=webp&q=80" group-title="Premium" , HBO Signature HD
-http://181.209.114.13:8000/play/a02c/index.m3u8
+http://181.13.173.86:8000/play/a02c/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://images.ctfassets.net/ugxciox4nyye/6ZzSgskyQeKxH1jVARP4Be/f5e9c9bd641b4b6b524a2677e0f60842/universal-premiere.png?fm=webp&q=80" group-title="Premium" , Universal Premiere
 http://streamsy.online:2999/korrigan17/25AUFBdqOi/1661
@@ -390,7 +390,7 @@ https://stream.arcast.net:4443/canal21/ngrp:canal21_all/playlist.m3u8
 http://45.5.117.182:8000/play/a0ci/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://images.ctfassets.net/ugxciox4nyye/6bFkcbsklRXLeB2ajrnCl8/c5ccbf53c3ab168c6448fb76265d5778/canal-quiero-musica.png?fm=webp&q=80" group-title="Musica" , Quiero Música
-http://181.209.114.13:8000/play/a02n/index.m3u8
+http://181.13.173.86:8000/play/a02n/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d0/Logocmtvargentina.png" group-title="Musica" , CM
 https://g5.vxral-hor.transport.edge-access.net/b08/ngrp:CM_CanaldelaMusica-100044_all/CM_CanaldelaMusica-100044_540p.m3u8
