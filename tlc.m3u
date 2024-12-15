@@ -371,7 +371,7 @@ https://dplus.gammacdn.workers.dev/videos/112.m3u8
 http://181.13.173.86:8000/play/a02k/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://images.ctfassets.net/ugxciox4nyye/7jOLhFfEgvIJD81fcVjRpD/95fddfd8e7b896ea3dca3c6ee63fbe42/62_TVE.png?fm=webp&q=80" group-title="Entretenimiento" , STAR TVE
-http://200.60.124.19:29000/play/a06x/index.m3u8
+http://45.232.148.101:8000/play/a084/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://images.ctfassets.net/ugxciox4nyye/1sB4rWsE3tpUxTIH7Bykf8/40497fcccd89b75d19f8a44cac4314eb/66_EuropaEuropa.png?fm=webp&q=80" group-title="Entretenimiento" , Film & Arts
 http://181.13.173.86:8000/play/a030/index.m3u8
