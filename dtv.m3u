@@ -32,7 +32,7 @@ http://181.13.173.86:8000/play/a06e/index.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://www.elsietetv.com.ar/wp-content/uploads/2019/07/logo_7_1.png" group-title="Locales", El Siete Mendoza
-http://www.radiosargentina.com.ar/php/tvm3uYT.php?id=YTAR0272
+http://www.radiosargentina.com.ar/php/tvm3uYT.php?id=YTAR0276
 
 #EXTINF:-1 tvg-logo="http://www.m3u.cl/logo/80286_Canal_9_Televida_Mendoza.png" group-title="Locales", Canal 9 Mendoza
 https://unlimited1-buenosaires.dps.live/televidaar/televidaar.smil/playlist.m3u8
@@ -47,16 +47,16 @@ https://stream.arcast.live/canal7jujuy/ngrp:canal7jujuy_all/playlist.m3u8
 https://ythls-v3.onrender.com/channel/UCW1sJwBOGgPhSPXJ-6pjF6w.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/94/El_doce_tv_cba_logo.png" group-title="Locales" , El Doce Cordoba
-http://www.radiosargentina.com.ar/php/tvm3uYT.php?id=YTAR0211
+https://ythls.armelin.one/channel/UCiaePeoCqpU8hBHiNrgkzrA.m3u8 
 
 #EXTINF:-1 tvg-id="TelefeCordoba.ar" tvg-logo="https://pbs.twimg.com/profile_images/1065066731041931265/1tP54glH_400x400.jpg" group-title="Locales", Telefe Cordoba
-http://www.radiosargentina.com.ar/php/tvm3u.php?id=TEAR0212
+http://www.radiosargentina.com.ar/php/tvm3u.php?id=TEAR0213
 
 #EXTINF:-1 tvg-id="TelefeRosario.ar" tvg-logo="https://pbs.twimg.com/profile_images/1065070449598611456/96wwvlty.jpg" group-title="Locales", Telefe Rosario
-http://www.radiosargentina.com.ar/php/tvm3u.php?id=TEAR0368
+http://www.radiosargentina.com.ar/php/tvm3u.php?id=TEAR0376
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f6/Canal_Ocho_San_Juan_%28Logo_2018%29.png" group-title="Locales", Canal 8 San Juan
-http://www.radiosargentina.com.ar/php/tvm3uYT.php?id=YTAR0334
+http://www.radiosargentina.com.ar/php/tvm3uYT.php?id=YTAR0342
 
 #EXTINF:-1 tvg-logo="https://tvpp.lapampa.gob.ar/images/LOGOS_SITIO_CANAL.png" group-title="Locales", TV Publica Pampeana
 https://stream.arcast.com.ar/c3lapampa/ngrp:c3lapampa_all/playlist.m3u8
@@ -343,17 +343,21 @@ http://181.13.173.86:8000/play/a0ai/index.m3u8
 http://181.13.173.86:8000/play/a02t/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://gt5ju7.com/wp-content/uploads/2024/09/directv.png" group-title="Deportes", DSPORTS 
-http://disfruta.net/richardactiva247/gwqUJUjvgE/1382
+http://home-playtv.com:8080/yahir/PWUMB/456659
 #EXTINF:-1 tvg-logo="https://gt5ju7.com/wp-content/uploads/2024/09/directv.png" group-title="Deportes", DSPORTS 
-http://disfruta.net/richardactiva247/gwqUJUjvgE/1059
+http://home-playtv.com:8080/yahir/PWUMB/456660
 #EXTINF:-1 tvg-logo="https://gt5ju7.com/wp-content/uploads/2024/09/directv.png" group-title="Deportes", DSPORTS
-http://disfruta.net/richardactiva247/gwqUJUjvgE/1383
+http://home-playtv.com:8080/yahir/PWUMB/310509
 #EXTINF:-1 tvg-logo="https://gt5ju7.com/wp-content/uploads/2024/09/directv.png" group-title="Deportes", DSPORTS 
-http://disfruta.net/richardactiva247/gwqUJUjvgE/1194
+http://home-playtv.com:8080/yahir/PWUMB/310516
+#EXTINF:-1 tvg-logo="https://gt5ju7.com/wp-content/uploads/2024/09/directv.png" group-title="Deportes", DSPORTS 
+http://home-playtv.com:8080/yahir/PWUMB/310533
+#EXTINF:-1 tvg-logo="https://gt5ju7.com/wp-content/uploads/2024/09/directv.png" group-title="Deportes", DSPORTS 
+http://home-playtv.com:8080/yahir/PWUMB/310536
 #EXTINF:-1 tvg-logo="https://gt5ju7.com/wp-content/uploads/2024/07/file-1-1.png" group-title="Deportes", DSPORTS 2 
-http://disfruta.net/richardactiva247/gwqUJUjvgE/1205
+http://home-playtv.com:8080/yahir/PWUMB/456658
 #EXTINF:-1 tvg-logo="https://gt5ju7.com/wp-content/uploads/2024/07/cro1a9IIVYYF0rH8hOn08-transformed.png" group-title="Deportes", DSPORTS PLUS 
-http://disfruta.net/richardactiva247/gwqUJUjvgE/1195
+http://home-playtv.com:8080/yahir/PWUMB/310535
 
 #EXTINF:-1 tvg-id="ar#espn" tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/07-Espn.png" group-title="Deportes", ESPN
 http://181.13.173.86:8000/play/a0af/index.m3u8
