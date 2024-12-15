@@ -405,7 +405,7 @@ http://181.13.173.86:8000/play/a02k/index.m3u8
 
 
 #EXTINF:-1 tvg-id="MTVSouth.us" tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/08-MTV.png" audio-track="spa" group-title="Musica", MTV
-http://181.13.173.86:8000/play/a02m/index.m3u8
+http://190.0.241.181:8000/play/a06u/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://images.ctfassets.net/ugxciox4nyye/6bFkcbsklRXLeB2ajrnCl8/c5ccbf53c3ab168c6448fb76265d5778/canal-quiero-musica.png?fm=webp&q=80" group-title="Musica" , Quiero Música
 http://181.13.173.86:8000/play/a02n/index.m3u8
