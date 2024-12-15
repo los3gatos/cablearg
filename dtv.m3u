@@ -435,10 +435,10 @@ https://stream-gtlc.telecentro.net.ar/hls/telemaxhls/0/playlist.m3u8
 https://5ea86ddd14ce7.streamlock.net/live/cable09061970/playlist.m3u8
 
 #EXTINF:-1 tvg-id="CanalRural.ar" tvg-logo="https://3.bp.blogspot.com/-kRrQVEhftUU/V-_RmD35S8I/AAAAAAAABB0/3CbSCG5SblctjXDXlMkNc8V0bZHVAfFZACLcB/s1600/canalrural-2016.png" group-title="Noticias", Rural TV
-http://170.246.176.234:9999/Live/97babc3dbf134bf0c226c7d6d7c135b6/rural.playlist.m3u8
+https://ythls.armelin.one/channel/UCPumJ2ayrr-JDsA9JDCUDDQ.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.construirtv.com/wp-content/uploads/2020/03/Logo_300.png" group-title="Culturales", Construir TV
-http://cem02.cdn.rcs.net.ar/mnp/construiriptv/output.mpd
+http://190.11.130.46/mnp/construiriptv/output.mpd
 
 
 
