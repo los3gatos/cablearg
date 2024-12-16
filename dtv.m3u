@@ -38,7 +38,7 @@ http://www.radiosargentina.com.ar/php/tvm3uYT.php?id=YTAR0276
 https://unlimited1-buenosaires.dps.live/televidaar/televidaar.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://images.ctfassets.net/ugxciox4nyye/2vo7XIfCasCBkyOXDppqgH/0d1c4e3fece963dd9a2c3ed2d253cc3c/49_CANAL_Telediario-noticias.png?fm=webp&q=80" group-title="Locales" , Telediario TV
-http://181.13.23.198:8000/play/a0f7/index.m3u8
+https://github.com/azgaresncf/strm2hls/raw/refs/heads/main/streams/Telediario_Television_Argentina.m3u8
 
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1409893446471532551/0g2L283Y_400x400.jpg" group-title="Locales", Canal 7 Jujuy
 https://stream.arcast.live/canal7jujuy/ngrp:canal7jujuy_all/playlist.m3u8
