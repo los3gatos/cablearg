@@ -198,7 +198,7 @@ http://200.26.177.54:8000/play/a0hu/index.m3u8
 http://181.13.173.86:8000/play/a02p/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://telecentro.com.ar/img/cm/channels/cnn@2x.png" group-title="Internacionales", CNN
-http://181.78.109.49:8000/play/a00n/index.m3u8
+http://45.4.3.75:7700/play/a08p
 
 #EXTINF:-1 tvg-logo="https://telecentro.com.ar/img/cm/channels/BBC%20News%20128.png" group-title="Internacionales", BBC News
 http://45.5.151.151:8000/play/a0ld/index.m3u8
@@ -206,8 +206,8 @@ http://45.5.151.151:8000/play/a0ld/index.m3u8
 #EXTINF:-1 tvg-id="Deutsche.Welle.TV.Español.(DW-ES).ar" tvg-logo="https://yt3.googleusercontent.com/ytc/AIf8zZRXa4spPp-4sq5SEYWTdxp-pclfjHHjFSqrnMbA=s900-c-k-c0x00ffffff-no-rj" tvg-language="Spanish" group-title="Internacionales", DW Español
 https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/stream01/streamPlaylist.m3u8
 
-
-
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Logo_TV5_Monde_-_2021.svg/600px-Logo_TV5_Monde_-_2021.svg.png" group-title="Internacionales", TV5
+http://149.62.177.68:8000/play/a11u
 
 
 
