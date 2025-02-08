@@ -173,6 +173,9 @@ http://181.78.109.49:8000/play/a04e/index.m3u8
 #EXTINF:-1 tvg-id="Telesur.ve" tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/03-Telesur.png" group-title="Internacionales", Telesur
 https://cdnesmain.telesur.ultrabase.net/mbliveMain/hd/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://telecentro.com.ar/img/cm/channels/DNEWS%20128.png" group-title="Internacionales", DNews
+http://200.115.120.1:8000/play/ca008/index.m3u8
+
 #EXTINF:-1 tvg-id="Telesur.ve" tvg-logo="https://telecentro.com.ar/img/cm/channels/tve@2x.png" group-title="Internacionales", TVE
 http://200.60.124.19:29000/play/a01z/index.m3u8
 
