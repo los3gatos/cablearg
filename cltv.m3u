@@ -5,10 +5,10 @@
 http://181.13.173.86:8000/play/a06e/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://images.ctfassets.net/ugxciox4nyye/5yCPV36WLATWGEgkWv6h3D/5cc84285f9792100a4444091ddd3999b/07_BRAVO-TV-entretenimiento.png?fm=webp&q=80" group-title="Nacionales" , BRAVO TV
-http://176.96.137.173:1234/stream/latino/bravotv/master.m3u8 
+https://dsr.ride.com.ar/tvmia/an42/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://images.ctfassets.net/ugxciox4nyye/mPtDXrj7PWlaIzFPVW6HJ/acb5a9d4b438c9baedab91d3d18670cb/01_NetTV.png?fm=webp&q=80" group-title="Nacionales" , NET TV
-http://190.94.186.158:8000/play/a0bc/index.m3u8
+https://dsr.ride.com.ar/tvmia/an17/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://images.ctfassets.net/ugxciox4nyye/7582OR45uswFne9WSFDuv8/fb447b4c508470938f346b4f5a05917a/02_America.png?fm=webp&q=80" group-title="Nacionales" , AMERICA TV
 https://github.com/mortal251/archivos_m3u8/raw/main/america_hls.m3u8
