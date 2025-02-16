@@ -102,7 +102,7 @@ http://181.13.173.86:8000/play/a0ag/index.m3u8
 http://181.13.173.86:8000/play/a0af/index.m3u8
 
 #EXTINF:-1 tvg-id="TyCSports.ar" tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/07-TyC.png" group-title="Deportes", TyC Sports
-http://181.78.27.128:8000/play/a063/index.m3u8 
+http://181.13.173.86:8000/play/a02s/index.m3u8
 
 #EXTINF:-1 tvg-id="DiscoveryTurboPanregional.us" tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/01-DiscoveryTurbo.png" audio-track="spa" group-title="Deportes", Discovery Turbo
 http://181.13.173.86:8000/play/a01w/index.m3u8
