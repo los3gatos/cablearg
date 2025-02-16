@@ -348,7 +348,7 @@ http://181.13.173.86:8000/play/a07i/index.m3u8
 http://181.13.173.86:8000/play/a0aj/index.m3u8
 
 #EXTINF:-1 tvg-id="History2Panregional.us" tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/01-History2.png" audio-track="spa" group-title="Culturales", History 2
-http://38.41.8.1:8000/play/a0md
+http://45.230.38.117:8000/play/a01f
 
 #EXTINF:-1 tvg-id="DiscoveryHomeHealthSouth.us" tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/01-DiscoveryHH.png" audio-track="spa" group-title="Culturales", Discovery H&H
 http://181.13.173.86:8000/play/a07h/index.m3u8
