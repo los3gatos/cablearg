@@ -269,7 +269,7 @@ http://45.230.38.117:8000/play/a00i
 http://181.13.173.86:8000/play/a02x/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/06-TNTNovelas.png" audio-track="spa" group-title="Entretenimiento", TNT Novelas
-http://181.78.27.128:8000/play/a044/index.m3u8
+http://45.230.38.117:8000/play/a06y
 
 #EXTINF:-1 tvg-id="ParamountNetworkPanregional.us" tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/05-Paramount.png" tvg-language="Spanish" group-title="Entretenimiento", Paramount Channel
 http://181.13.173.86:8000/play/a02y/index.m3u8
