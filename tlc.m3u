@@ -157,7 +157,7 @@ http://181.13.173.86:8000/play/a06u/index.m3u8
 http://181.13.173.86:8000/play/a02e/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Tooncast_logo.svg/200px-Tooncast_logo.svg.png" group-title="Infantiles", Tooncast 
-http://200.115.120.1:8000/play/ca008/index.m3u8
+http://45.230.38.117:8000/play/a0dl
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/2b/BitMe.png/revision/latest?cb=20200123215611&path-prefix=es" group-title="Infantiles", Bitme HD
 http://8.242.176.45:1013/play/a037/index.m3u8
