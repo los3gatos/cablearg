@@ -77,7 +77,7 @@ http://190.94.186.158:8000/play/a0bs/index.m3u8
 http://181.13.173.86:8000/play/a06h/index.m3u8
 
 #EXTINF:-1 tvg-id="TyCSports.ar" tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/07-TyC.png" group-title="Deportes", TyC Sports
-http://181.78.27.128:8000/play/a063/index.m3u8 
+http://181.13.173.86:8000/play/a02s/index.m3u8
 
 #EXTINF:-1 tvg-id="ar#espn-2" tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/07-Espn2.png" group-title="Deportes", ESPN 2
 http://181.13.173.86:8000/play/a0ag/index.m3u8
