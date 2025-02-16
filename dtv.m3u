@@ -468,7 +468,7 @@ http://45.5.117.182:8000/play/a0hu/index.m3u8
 http://181.13.173.86:8000/play/a01w/index.m3u8
 
 #EXTINF:-1 tvg-id="TLC.ar" tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/01-DiscoveryTLC.png" tvg-description="Cultural" audio-track="spa" group-title="Culturales", Discovery TLC
-http://181.78.27.128:8000/play/a03u/index.m3u8
+http://45.230.38.117:8000/play/a04f
 
 #EXTINF:-1 tvg-id="HistorySouth.us" tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/01-History.png" audio-track="spa" group-title="Culturales", History
 http://181.13.173.86:8000/play/a0aj/index.m3u8
