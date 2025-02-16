@@ -215,7 +215,7 @@ http://38.191.90.2:8000/play/a04q/index.m3u8
 http://181.13.173.86:8000/play/a024/index.m3u8
 
 #EXTINF:-1 tvg-id="ar#cinemax-sur" tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/05-Cinemax.png" audio-track="spa" group-title="Entretenimiento", Cinemax
-http://181.78.27.128:8000/play/a031/index.m3u8
+http://45.230.38.117:8000/play/a080
 
 #EXTINF:-1 tvg-logo="https://images.ctfassets.net/ugxciox4nyye/Mq0oDJsOGLGwmqR3jljjd/3b623163d3192f59a41720d0418c2813/canal-volver.png?fm=webp&q=80" group-title="Entretenimiento" , Volver
 http://181.13.173.86:8000/play/a021/index.m3u8
