@@ -113,7 +113,7 @@ http://38.191.90.2:8000/play/a04k/index.m3u8
 http://160.20.165.246:8000/play/a00l/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/InvestigationDiscoveryLogo2020.svg/langfr-512px-InvestigationDiscoveryLogo2020.svg.png" group-title="Entretenimiento", ID
-http://181.78.27.128:8000/play/a041/index.m3u8
+http://45.230.38.117:8000/play/a07i
 
 #EXTINF:-1 tvg-logo="https://images.ctfassets.net/ugxciox4nyye/iEmoAG070AQj6Z04qanWm/eb443a668d8bb7ef8cf1c9f49cae701a/73_Pasiones.png?fm=webp&q=80" group-title="Entretenimiento" , Pasiones
 http://181.209.95.29:8000/play/a0aj/index.m3u8
