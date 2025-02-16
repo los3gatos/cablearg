@@ -174,7 +174,7 @@ http://181.13.173.86:8000/play/a02v/index.m3u8
 http://181.13.173.86:8000/play/a07d/index.m3u8
 
 #EXTINF:-1 tvg-id="ar#cinemax-sur" tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/05-Cinemax.png" audio-track="spa" group-title="Entretenimiento", Cinemax
-http://181.78.27.128:8000/play/a031/index.m3u8
+http://45.230.38.117:8000/play/a080
 
 #EXTINF:-1 tvg-id="AMCLatinAmerica.us" tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/05-AMC.png" audio-track="spa" group-title="Entretenimiento", AMC
 http://181.13.173.86:8000/play/a01z/index.m3u8
