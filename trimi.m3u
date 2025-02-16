@@ -60,7 +60,7 @@ https://unlimited1-buenosaires.dps.live/perfiltv/perfiltv.smil/playlist.m3u8
 
 
 #EXTINF:-1 tvg-id="TyCSports.ar" tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/07-TyC.png" group-title="Deportes", TyC Sports
-http://181.78.27.128:8000/play/a063/index.m3u8 
+http://181.13.173.86:8000/play/a02s/index.m3u8
 
 #EXTINF:-1 tvg-id="ar#espn" tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/07-Espn.png" group-title="Deportes", ESPN
 http://181.13.173.86:8000/play/a0af/index.m3u8
