@@ -301,7 +301,7 @@ http://45.5.117.182:8000/play/a0lz/index.m3u8
 http://181.13.173.86:8000/play/a07h/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://images.ctfassets.net/ugxciox4nyye/3MQOt9I55Djj4QJ6S8CHll/35993083e010f6578912712b754f94a9/Canal_-_DiscoveryTLC.png?fm=webp&q=80" group-title="Varios" , TLC
-http://181.78.27.128:8000/play/a03u/index.m3u8
+http://45.230.38.117:8000/play/a04f
 
 #EXTINF:-1 tvg-logo="https://images.ctfassets.net/ugxciox4nyye/7bpzYrUNwKD8bjUR4L4xEF/2b2c1bced3899a54e9143558f19e5ebd/78_HolaTV.png?fm=webp&q=80" group-title="Varios" , Hola TV
 https://022d66c197dd4a1e9008e0134a74f34e.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung-es_HolaPlay/playlist.m3u8
