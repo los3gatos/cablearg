@@ -186,7 +186,7 @@ http://181.13.173.86:8000/play/a07b/index.m3u8
 http://181.13.173.86:8000/play/a02w/index.m3u8
 
 #EXTINF:-1 tvg-logo="http://www.reportv.com.ar/buscador/img/Logos/27977740.jpg" group-title="Entretenimiento", TNT Novelas
-http://181.78.27.128:8000/play/a044/index.m3u8
+http://45.230.38.117:8000/play/a06y
 
 #EXTINF:-1 tvg-logo="https://images.ctfassets.net/ugxciox4nyye/3Q4Kcrs1ArtiZ3dA4QCCFW/7872da4c0f5bcc4bd5ca0f95041d7f1d/59_StudioUniversal.png?fm=webp&q=80" group-title="Entretenimiento" , STUDIO UNIVERSAL
 http://181.176.153.106:8090/play/a0ez/index.m3u8
