@@ -115,6 +115,15 @@ http://200.115.96.66:4000/play/a0e0/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/Logo_AM-sports-2019.svg/796px-Logo_AM-sports-2019.svg.png" group-title="Deportes", AM Sports
 http://181.13.173.86:8000/play/a01v/index.m3u8
 
+#EXTINF:-1 tvg-logo="https://www.flow.com.ar/content/dam/teco-cms-ecosystem/flow/guia-de-canales/1962.png" group-title="Eventos Flow", Eventos 2
+http://181.13.23.198:8000/play/a0a2/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.flow.com.ar/content/dam/teco-cms-ecosystem/flow/guia-de-canales/1962.png" group-title="Eventos Flow", Eventos 3
+http://181.13.23.198:8000/play/a0a8/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.flow.com.ar/content/dam/teco-cms-ecosystem/flow/guia-de-canales/1962.png" group-title="Eventos Flow", Eventos HD 
+http://181.13.23.198:8000/play/a0ab/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.flow.com.ar/content/dam/teco-cms-ecosystem/flow/guia-de-canales/1962.png" group-title="Eventos Flow", Eventos HD
+http://181.13.23.198:8000/play/a0a0/index.m3u8
+
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/07-Espn.png" group-title="Deportes", ESPN Premium 
 http://181.13.173.86:8000/play/a078/index.m3u8
 
