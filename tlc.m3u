@@ -43,7 +43,7 @@ https://dsr.ride.com.ar/tvmia/bn02/playlist.m3u8
 https://github.com/mortal251/archivos_m3u8/raw/main/america_hls.m3u8
 
 #EXTINF:-1 tvg-id="NETTV.ar" tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/02-Net.png" group-title="Nacionales", Net TV
-https://dsr.ride.com.ar/tvmia/an17/playlist.m3u8
+http://186.0.248.113:8000/play/a0bs/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-country="AR" tvg-logo="https://raw.githubusercontent.com/mortal251/logos/main/IP_NOTICIAS.jpg" group-title="Nacionales", IP Noticias
 http://181.78.27.128:8000/play/a055/index.m3u8
