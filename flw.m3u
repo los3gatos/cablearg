@@ -7,7 +7,7 @@ http://45.5.151.151:8000/play/a0lk/index.m3u8
 http://181.13.173.86:8000/play/a02g/index.m3u8
 
 #EXTINF:-1 tvg-id="AmericaTV.ar" tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/02-America.png" group-title="Nacionales", America
-https://github.com/mortal251/archivos_m3u8/raw/main/america_hls.m3u8
+http://138.121.114.50:8000/play/a09y/index.m3u8
 
 #EXTINF:-1 tvg-id="Telefe.ar" tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/02-Telefe.png" group-title="Nacionales", Telefe
 https://telefe.com/Api/Videos/GetSourceUrl/694564/0/HLS?.m3u8 
