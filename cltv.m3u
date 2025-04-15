@@ -11,7 +11,7 @@ https://dsr.ride.com.ar/tvmia/an42/playlist.m3u8
 http://186.0.248.113:8000/play/a0bs/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://images.ctfassets.net/ugxciox4nyye/7582OR45uswFne9WSFDuv8/fb447b4c508470938f346b4f5a05917a/02_America.png?fm=webp&q=80" group-title="Nacionales" , AMERICA TV
-https://github.com/mortal251/archivos_m3u8/raw/main/america_hls.m3u8
+http://138.121.114.50:8000/play/a09y/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://images.ctfassets.net/ugxciox4nyye/4Dyn70sIkPArFytOILfyOw/b197e03db0d6bdd5868966f23bd0a88d/03_Telefe.png?fm=webp&q=80" group-title="Nacionales" , TELEFE
 https://telefe.com/Api/Videos/GetSourceUrl/694564/0/HLS?.m3u8  
