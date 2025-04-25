@@ -124,19 +124,19 @@ http://181.209.114.13:8000/play/a02u/index.m3u8
 
 
 #EXTINF:-1 tvg-id="Pakapaka.ar" tvg-country="AR" tvg-logo="http://tvabierta.weebly.com/uploads/5/1/3/4/51344345/pakapaka.png" group-title="Infantiles", Paka Paka
-http://181.13.173.86:8000/play/a01n/index.m3u8
+http://201.217.246.177:8000/play/a01n/index.m3u8
 
 #EXTINF:-1 tvg-id="ar#disney-jr" tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/04-DisneyJr.png" audio-track="spa"group-title="Infantiles", Disney Jr
-http://181.13.173.86:8000/play/a0ac/index.m3u8
+http://138.121.114.50:8000/play/a09s/index.m3u8
 
 #EXTINF:-1 tvg-id="CartoonNetworkSouthAtlantic.us" tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/04-CartoonNetwork.png" audio-track="spa" group-title="Infantiles", Cartoon Network
-http://181.13.173.86:8000/play/a075/index.m3u8
+http://138.121.114.50:8000/play/a075/index.m3u8
 
 #EXTINF:-1 tvg-id="DisneyChannelSouth.us" tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/04-Disney.png" audio-track="spa" group-title="Infantiles", Disney Channel
-http://181.13.173.86:8000/play/a02r/index.m3u8
+http://138.121.114.50:8000/play/a02r/index.m3u8
 
 #EXTINF:-1 tvg-id="ar#nickelodeon-hd" tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/04-Nickelodeon.png" audio-track="spa" group-title="Infantiles", Nickelodeon
-http://181.13.173.86:8000/play/a0am/index.m3u8
+http://138.121.114.50:8000/play/a09t/index.m3u8
 
 #EXTINF:-1 tvg-id="ar#boomerang-cartoon" tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/04-Cartoonito.png" audio-track="spa" group-title="Infantiles", Cartoonito
 http://45.228.234.133:8000/play/a052/index.m3u8
@@ -145,16 +145,16 @@ http://45.228.234.133:8000/play/a052/index.m3u8
 http://181.78.21.46:8009/play/a02z
 
 #EXTINF:-1 tvg-id="DiscoveryKidsPanregional.us" tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/04-DiscoveryKids.png" audio-track="spa" group-title="Infantiles", Discovery Kids
-http://181.13.173.86:8000/play/a06t/index.m3u8
+http://138.121.114.50:8000/play/a06t/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBC4100003WE_20230208T013050SQUARE.png_20230208013050.png" tvg-chno="4604" group-title="Infantiles" , Clan
 https://d3nnqrdb77sy13.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-eimbp20cszixb/Clan_ES.m3u8
 
 #EXTINF:-1 tvg-id="NickJrSouth.us" tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/04-NickJr.png" audio-track="spa" group-title="Infantiles", Nick Jr
-http://181.13.173.86:8000/play/a06u/index.m3u8
+http://138.121.114.50:8000/play/a06u/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/Babytvv.png/800px-Babytvv.png" group-title="Infantiles", Baby TV 
-http://181.13.173.86:8000/play/a02e/index.m3u8
+http://138.121.114.50:8000/play/a02e/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Tooncast_logo.svg/200px-Tooncast_logo.svg.png" group-title="Infantiles", Tooncast 
 http://186.125.218.192:13000/play/a0a4/index.m3u8
