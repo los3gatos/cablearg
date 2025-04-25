@@ -344,19 +344,19 @@ http://190.60.40.37:8001/play/a099
 
 
 #EXTINF:-1 tvg-id="NationalGeographicSouth.us" tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/01-Natgeo.png" audio-track="spa" group-title="Culturales", National Geographic
-http://181.13.173.86:8000/play/a0al/index.m3u8
+http://138.121.114.50:8000/play/a0a8/index.m3u8
 
 #EXTINF:-1 tvg-id="DiscoveryChannelSouth.us" tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/01-Discovery.png" audio-track="spa" group-title="Culturales", Discovery Channel
-http://181.13.173.86:8000/play/a07i/index.m3u8
+http://138.121.114.50:8000/play/a07i/index.m3u8
 
 #EXTINF:-1 tvg-id="HistorySouth.us" tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/01-History.png" audio-track="spa" group-title="Culturales", History
-http://181.13.173.86:8000/play/a0aj/index.m3u8
+http://181.209.114.13:8000/play/a051/index.m3u8
 
 #EXTINF:-1 tvg-id="History2Panregional.us" tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/01-History2.png" audio-track="spa" group-title="Culturales", History 2
 http://190.104.67.107:234/play/a06n/index.m3u8
 
 #EXTINF:-1 tvg-id="DiscoveryHomeHealthSouth.us" tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/01-DiscoveryHH.png" audio-track="spa" group-title="Culturales", Discovery H&H
-http://181.13.173.86:8000/play/a07h/index.m3u8
+http://138.121.114.50:8000/play/a07h/index.m3u8
 
 #EXTINF:-1 tvg-id="AnimalPlanetLatinAmerica.us" tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/01-AnimalPlanet.png" audio-track="spa" group-title="Culturales", Animal Planet
 http://200.60.124.19:29000/play/a012/index.m3u8
@@ -365,13 +365,13 @@ http://200.60.124.19:29000/play/a012/index.m3u8
 https://live-01-07-ciudad.vodgc.net/live-01-07-ciudad.vodgc.net/index.m3u8
 
 #EXTINF:-1 tvg-id="ElGourmetSouth.ar" tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/09-ElGourmet.png" audio-track="spa" group-title="Culturales", El Gourmet
-http://181.13.173.86:8000/play/a06w/index.m3u8
+http://138.121.114.50:8000/play/a06w/index.m3u8
 
 #EXTINF:-1 tvg-id="MasChicLatinAmerica.us" tvg-logo="https://raw.githubusercontent.com/dvds115/DowloadIP/main/icons/101-MasChic.png" audio-track="spa" group-title="Culturales", Mas Chic
 http://45.5.117.183:9000/play/a0ka/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://images.ctfassets.net/ugxciox4nyye/3McziTZ5M5VJkRn4IBIPAh/53add865f835209e59decf37bacb705e/Metro.png?fm=webp&q=80" group-title="Culturales", Metro
-http://181.13.173.86:8000/play/a02g/index.m3u8
+http://138.121.114.50:8000/play/a02g/index.m3u8
 
 #EXTINF:-1 tvg-id="ArgentinisimaSatelital.ar" tvg-logo="https://pbs.twimg.com/profile_images/607708464257896448/1JrRLGLc_400x400.jpg" group-title="Culturales", Argentinisima Satelital
 https://stream1.sersat.com/hls/argentinisima.m3u8
@@ -389,13 +389,13 @@ http://181.209.95.29:8000/play/a02f/index.m3u8
 http://8.242.176.45:1013/play/a027/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://images.ctfassets.net/ugxciox4nyye/2Epkdd93g9ercbqDzKQFoe/36c820d026574873c07232d83a9e9cd1/89_DiscoveryScience.png?fm=webp&q=80" group-title="Culturales" , Discovery Science 
-http://181.13.173.86:8000/play/a02k/index.m3u8
+http://138.121.114.50:8000/play/a02k/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://images.ctfassets.net/ugxciox4nyye/7jOLhFfEgvIJD81fcVjRpD/95fddfd8e7b896ea3dca3c6ee63fbe42/62_TVE.png?fm=webp&q=80" group-title="Entretenimiento" , STAR TVE
 http://45.228.234.133:8000/play/a060/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://images.ctfassets.net/ugxciox4nyye/1sB4rWsE3tpUxTIH7Bykf8/40497fcccd89b75d19f8a44cac4314eb/66_EuropaEuropa.png?fm=webp&q=80" group-title="Entretenimiento" , Film & Arts
-http://181.13.173.86:8000/play/a030/index.m3u8
+http://138.121.114.50:8000/play/a030/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://images.ctfassets.net/ugxciox4nyye/6XQjTLV1YxXlHhne0eIg6T/7cdfa6b28114f0c346bf0ba3be684c5b/88_HogarTV.png?fm=webp&q=80" group-title="Culturales" , HGTV 
 http://181.209.95.29:8000/play/a02j/index.m3u8
@@ -404,10 +404,10 @@ http://181.209.95.29:8000/play/a02j/index.m3u8
 http://160.20.165.246:8000/play/a00l/index.m3u8
 
 #EXTINF:-1 tvg-id="MTVSouth.us" tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/08-MTV.png" audio-track="spa" group-title="Musica", MTV
-http://181.13.173.86:8000/play/a02m/index.m3u8
+http://181.209.114.13:8000/play/a02m/index.m3u8
 
 #EXTINF:-1 tvg-logo="http://www.reportv.com.ar/buscador/img/Logos/9332819.jpg" group-title="Musica", Quiero Musica
-http://181.13.173.86:8000/play/a02n/index.m3u8
+http://181.209.114.13:8000/play/a02n/index.m3u8
 
 #EXTINF:-1 tvg-id="CMElCanaldelaMusica.ar" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d0/Logocmtvargentina.png" group-title="Musica", CM
 #EXTVLCOPT:http-referrer=https://vmf.edge-apps.net
