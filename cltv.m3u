@@ -179,7 +179,7 @@ http://143.0.67.77:8000/play/a07e/index.m3u8
 http://143.0.67.77:8000/play/a02w/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://images.ctfassets.net/ugxciox4nyye/2WywBmAu4XrHLK8Env2Yys/84a7f4f36e45ba0cff53ae674ede27f8/52_A_E.png?fm=webp&q=80" group-title="Entretenimiento" , A&E HD
-http://143.0.67.77:8000/play/a05i/index.m3u8
+http://160.20.165.246:8000/play/a00k/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://images.ctfassets.net/ugxciox4nyye/5ACGfVlFTHfyv2ktSrDufK/32e9f43dd323e82dbf42b7169ed1a5ff/53_AXNHD.png?fm=webp&q=80" group-title="Entretenimiento" , AXN HD
 http://143.0.67.77:8000/play/a05f/index.m3u8
