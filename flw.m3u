@@ -285,7 +285,7 @@ http://190.60.37.154:45000/play/a01z/index.m3u8
 http://181.209.114.13:8000/play/a05k/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/InvestigationDiscoveryLogo2020.svg/langfr-512px-InvestigationDiscoveryLogo2020.svg.png" group-title="Entretenimiento", ID
-http://45.230.38.117:8000/play/a07i
+http://200.60.124.19:29000/play/a0d9/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/F6SR26t/cocen.png" group-title="Entretenimiento", Comedy Central
 http://143.0.67.77:8000/play/a02x/index.m3u8
