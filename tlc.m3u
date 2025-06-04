@@ -59,7 +59,7 @@ https://g4.mc-slo.transport.edge-access.net/a14/ngrp:cronicatv_video1-100044_all
 http://200.55.244.75:8000/play/a0e4/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.perfil.com/img/minisitios/econocanal/logo.png?v=1" group-title="Nacionales", Canal E
-https://unlimited1-buenosaires.dps.live/perfiltv/perfiltv.smil/playlist.m3u8
+https://unlimited1-saopaulo.dps.live/perfiltv/perfiltv.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/1x137ostiNGYbXe5sP-LYMun9ghpr_uz54WATZM7rVeBBrDV-8DQV0Hy8Fv8kbWeX_BIY48Vbng=s176-c-k-c0x00ffffff-no-rj" group-title="Nacionales", Extra TV
 http://200.121.48.17:8000/play/a08p/index.m3u8
