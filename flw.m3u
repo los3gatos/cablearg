@@ -58,10 +58,10 @@ https://jireh-1-hls-video-ar-isp.dps.live/hls-video/c54ac2799874375c81c1672abb70
 http://181.78.27.128:8000/play/a055/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/j4t5hEoHBnlm_a7wiArlgkSYC7cU5W0gSPCWG3IWsu5zQrCuinV3PL57bFP8FVwKJEaR621ZXw=s160-c-k-c0x00ffffff-no-rj" group-title="Nacionales", Diputados TV 
-http://www.radiosargentina.com.ar/php/tvm3uYT.php?id=YTAR0103
+http://200.121.48.17:8000/play/a14m/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/ytc/AOPolaRGO4j6_mLGeLiFV6tWQZaY_xL6He9--A3M-IRnpA=s176-c-k-c0x00ffffff-no-rj" group-title="Nacionales", Senado TV
-http://www.radiosargentina.com.ar/php/tvm3uYT.php?id=YTAR0107
+
  
 
 
