@@ -170,7 +170,7 @@ https://cdnesmain.telesur.ultrabase.net/mbliveMain/hd/playlist.m3u8
 http://45.230.38.117:8000/play/a02n
 
 #EXTINF:-1 tvg-id="Telesur.ve" tvg-logo="https://telecentro.com.ar/img/cm/channels/tve@2x.png" group-title="Internacionales", TVE
-http://200.60.124.19:29000/play/a01z/index.m3u8
+http://200.60.124.19:29000/play/a01z/index.m3u8 
 
 #EXTINF:-1 tvg-id="CNNenEspanol.us" tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/03-CNNEsp.png" tvg-language="Spanish" group-title="Internacionales", CNN en Español
 http://181.13.173.86:8000/play/a0ab/index.m3u8
