@@ -227,7 +227,7 @@ http://200.115.96.61:9090/play/a0dj/index.m3u8
 http://143.0.67.77:8000/play/a06w/index.m3u8
 
 #EXTINF:-1 tvg-id="FoodNetworkPanregional.us" tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/09-FoodNetwork.png" audio-track="spa" group-title="Varios", Food Network
-http://181.78.14.26:8000/play/a00r
+http://38.44.109.41:8003/play/a03f/index.m3u8
 
 #EXTINF:-1 tvg-id="DiscoveryHomeHealthSouth.us" tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/01-DiscoveryHH.png" audio-track="spa" group-title="Varios", Discovery H&H
 http://143.0.67.77:8000/play/a07h/index.m3u8
