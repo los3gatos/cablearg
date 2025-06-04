@@ -246,7 +246,7 @@ http://190.60.37.154:45000/play/a05e/index.m3u8
 http://143.0.67.77:8000/play/a079/index.m3u8
 
 #EXTINF:-1 tvg-id="ar#sony-hd" tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/05-Sony.png" audio-track="spa" group-title="Entretenimiento", Sony Channel
-http://143.0.67.77:8000/play/a05d/index.m3u8
+http://190.60.37.154:45000/play/a04m/index.m3u8
 
 #EXTINF:-1 tvg-id="WarnerChannelSouth.us" tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/05-Warner.png" audio-track="spa" group-title="Entretenimiento", Warner Channel
 http://143.0.67.77:8000/play/a05e/index.m3u8
