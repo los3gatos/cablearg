@@ -139,7 +139,7 @@ http://143.0.67.77:8000/play/a02y/index.m3u8
 http://176.96.137.173:1234/stream/latino/adultswim/master.m3u8
 
 #EXTINF:-1 tvg-id="ar#sony-hd" tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/05-Sony.png" audio-track="spa" group-title="Entretenimiento", Sony Channel
-http://143.0.67.77:8000/play/a05d/index.m3u8
+http://190.60.37.154:45000/play/a04m/index.m3u8
 
 #EXTINF:-1 tvg-id="SpacePanregional.us" tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/05-Space.png" audio-track="spa" group-title="Entretenimiento", Space
 http://143.0.67.77:8000/play/a02w/index.m3u8
