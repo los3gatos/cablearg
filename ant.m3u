@@ -253,7 +253,7 @@ http://160.20.165.246:8000/play/a00d/index.m3u8
 http://200.60.124.19:29000/play/a012/index.m3u8
 
 #EXTINF:-1 tvg-id="AESouth.us" tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/01-AE.png" audio-track="spa" group-title="Culturales", A&E
-http://45.230.38.117:8000/play/a00i
+http://160.20.165.246:8000/play/a00k/index.m3u8
 
 #EXTINF:-1 tvg-id="DiscoveryChannelSouth.us" tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/01-Discovery.png" audio-track="spa" group-title="Culturales", Discovery Channel
 http://143.0.67.77:8000/play/a07i/index.m3u8
