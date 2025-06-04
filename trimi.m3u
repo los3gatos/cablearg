@@ -119,7 +119,7 @@ http://181.209.114.13:8000/play/a07b/index.m3u8
 http://181.209.114.13:8000/play/a06v/index.m3u8
 
 #EXTINF:-1 tvg-id="ar#cinemax-sur" tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/05-Cinemax.png" audio-track="spa" group-title="Entretenimiento", Cinemax
-http://45.230.38.117:8000/play/a080
+http://200.60.124.19:29000/play/a0cr/index.m3u8
 
 #EXTINF:-1 tvg-id="ar#fox-hd" tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/05-StarChannel.png" audio-track="spa" group-title="Entretenimiento", Star Channel
 http://181.209.114.13:8000/play/a079/index.m3u8
