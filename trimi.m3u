@@ -130,7 +130,7 @@ http://181.209.114.13:8000/play/a02y/index.m3u8
 http://45.228.234.133:8000/play/a05v/index.m3u8
 
 #EXTINF:-1 tvg-id="ar#sony-hd" tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/05-Sony.png" audio-track="spa" group-title="Entretenimiento", Sony Channel
-http://181.209.114.13:8000/play/a05d/index.m3u8
+http://190.60.37.154:45000/play/a04m/index.m3u8
 
 #EXTINF:-1 tvg-id="SpacePanregional.us" tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/05-Space.png" audio-track="spa" group-title="Entretenimiento", Space
 http://181.209.114.13:8000/play/a02w/index.m3u8
