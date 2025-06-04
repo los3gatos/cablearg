@@ -240,7 +240,7 @@ http://143.0.67.77:8000/play/a02x/index.m3u8
 http://143.0.67.77:8000/play/a024/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://images.ctfassets.net/ugxciox4nyye/3YoPUcjcrgs25FVGqJd5R2/79f67e8e24034d93ea3093168ac03a63/72_RCNNovelas.png?fm=webp&q=80" group-title="Entretenimiento" , RCN Novelas
-http://200.115.96.61:9090/play/a029/index.m3u8
+http://190.60.37.154:45000/play/a043/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://images.ctfassets.net/ugxciox4nyye/dxjEQOGHXp4wEckENKXFT/f525dcd5d21914ca2c54cbebabf62cb1/75_CanalClaroHD.png?fm=webp&q=80" group-title="Entretenimiento", Canal Claro
 http://200.60.124.19:29000/play/a04w/index.m3u8
