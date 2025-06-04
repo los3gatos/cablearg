@@ -273,7 +273,7 @@ http://45.5.117.182:8000/play/a0fg/index.m3u8
 http://181.209.95.29:8000/play/a02f/index.m3u8 
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/InvestigationDiscoveryLogo2020.svg/langfr-512px-InvestigationDiscoveryLogo2020.svg.png" group-title="Varios", ID
-http://45.230.38.117:8000/play/a07i
+http://200.60.124.19:29000/play/a0d9/index.m3u8
 
 #EXTINF:-1 tvg-id="FoodNetworkPanregional.us" tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/09-FoodNetwork.png" audio-track="spa" group-title="Varios", Food Network
 http://181.176.153.106:8090/play/a0x5/index.m3u8
