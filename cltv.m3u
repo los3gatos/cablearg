@@ -74,7 +74,7 @@ http://181.13.23.198:8000/play/a0f7/index.m3u8
 http://www.coninfo.net:1935/tvlink/live/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://images.ctfassets.net/ugxciox4nyye/HACpPafOQ9Yj5f8T8Ey1Y/fe9b0f454657b8c4812a138c5870239e/12_ClaroSports.png?fm=webp&q=80" group-title="Deportes" , Claro Sports
-http://200.106.13.204:8000/play/a04o/index.m3u8
+http://38.49.128.38:8000/play/a0cm/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://images.ctfassets.net/ugxciox4nyye/6IbZzov0IsfGwSja8FthCt/cf83d31a80d595a8cd88259bfcf505e1/Canal_-_TyCSports.png?fm=webp&q=80" group-title="Deportes" , TyC Sports
 http://143.0.67.77:8000/play/a02s/index.m3u8
