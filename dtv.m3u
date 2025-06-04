@@ -74,7 +74,7 @@ http://181.209.114.13:8000/play/a079/index.m3u8
 http://181.209.114.13:8000/play/a05e/index.m3u8
 
 #EXTINF:-1 tvg-id="AESouth.us" tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/01-AE.png" audio-track="spa" group-title="Entretenimiento", A&E
-http://45.230.38.117:8000/play/a00i
+http://160.20.165.246:8000/play/a00k/index.m3u8
 
 #EXTINF:-1 tvg-id="ar#sony-hd" tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/05-Sony.png" audio-track="spa" group-title="Entretenimiento", Sony Channel
 http://181.209.114.13:8000/play/a05d/index.m3u8
