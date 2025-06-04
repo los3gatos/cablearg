@@ -113,7 +113,7 @@ http://45.228.234.133:8000/play/a05v/index.m3u8
 http://160.20.165.246:8000/play/a009/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://entretenimiento.flow.com.ar/content/dam/teco-cms-ecosystem/flow/guia-de-canales/50.png" group-title="Entretenimiento", E! 
-http://160.20.165.246:8000/play/a00l/index.m3u8
+http://200.60.124.19:29000/play/a0aj/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/InvestigationDiscoveryLogo2020.svg/langfr-512px-InvestigationDiscoveryLogo2020.svg.png" group-title="Entretenimiento", ID
 http://200.60.124.19:29000/play/a0d9/index.m3u8
