@@ -158,7 +158,7 @@ http://143.0.67.77:8000/play/a02e/index.m3u8
 http://200.60.124.19:29000/play/a02b/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://images.ctfassets.net/ugxciox4nyye/4On8gxcQzbBZU0e3km6KXH/4334e9a223f6e57e6f91cbbe96fd90a0/Canal_-_DiscoveryID.png?fm=webp&q=80" group-title="Entretenimiento" , Investigation Discovery
-http://200.60.124.19:29000/play/a0d9/index.m3u8
+http://200.60.124.19:29000/play/a04v/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://images.ctfassets.net/ugxciox4nyye/27qdyEGErOYlZ0ZIJ9NzCg/aaa55232741d8e6cd434c8e96309feaf/45_FXHD.png?fm=webp&q=80" group-title="Entretenimiento" , FX HD
 http://181.13.173.86:8000/play/a02v/index.m3u8
