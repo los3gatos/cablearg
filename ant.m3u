@@ -218,7 +218,7 @@ http://143.0.67.77:8000/play/a030/index.m3u8
 
 
 #EXTINF:-1 tvg-id="TLC.ar" tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/01-DiscoveryTLC.png" tvg-description="Cultural" audio-track="spa" group-title="Varios", Discovery TLC
-http://45.230.38.117:8000/play/a04f
+http://186.0.248.113:8000/play/a0bh/index.m3u8
 
 #EXTINF:-1 tvg-id="MasChicLatinAmerica.us" tvg-logo="https://raw.githubusercontent.com/dvds115/DowloadIP/main/icons/101-MasChic.png" audio-track="spa" group-title="Varios", Mas Chic
 http://45.5.117.183:9000/play/a0ka/index.m3u8
