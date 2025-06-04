@@ -259,7 +259,7 @@ http://160.20.165.246:8000/play/a00k/index.m3u8
 http://143.0.67.77:8000/play/a07i/index.m3u8
 
 #EXTINF:-1 tvg-id="History2Panregional.us" tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/01-History2.png" audio-track="spa" group-title="Culturales", History 2
-http://45.230.38.117:8000/play/a01f
+http://38.159.227.126:8000/play/a07k/index.m3u8
 
 #EXTINF:-1 tvg-id="HistorySouth.us" tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/01-History.png" audio-track="spa" group-title="Culturales", History
 http://143.0.67.77:8000/play/a051/index.m3u8
