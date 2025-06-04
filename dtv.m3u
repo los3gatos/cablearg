@@ -242,7 +242,7 @@ http://143.0.67.77:8000/play/a07b/index.m3u8
 http://138.121.114.50:8000/play/a022/index.m3u8
 
 #EXTINF:-1 tvg-id="ar#cinemax-sur" tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/05-Cinemax.png" audio-track="spa" group-title="Cine", Cinemax
-http://45.230.38.117:8000/play/a080
+http://200.60.124.19:29000/play/a0cr/index.m3u8
 
 #EXTINF:-1 tvg-id="ParamountNetworkPanregional.us" tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/05-Paramount.png" tvg-language="Spanish" group-title="Cine", Paramount Channel
 http://143.0.67.77:8000/play/a02y/index.m3u8
