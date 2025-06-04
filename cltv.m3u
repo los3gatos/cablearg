@@ -185,7 +185,7 @@ http://160.20.165.246:8000/play/a00k/index.m3u8
 http://143.0.67.77:8000/play/a05f/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://images.ctfassets.net/ugxciox4nyye/6RYXhIj8X3iJXwJPaFpvuJ/519fc4b700613824c5b9f5fe2d35915e/54_Cinemax.png?fm=webp&q=80" group-title="Entretenimiento" , CINEMAX HD
-http://200.60.124.19:29000/play/a0cr/index.m3u8
+http://200.60.124.19:29000/play/a025/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://images.ctfassets.net/ugxciox4nyye/2RhKM1kfYsNIRg8oytryn0/3c6e486fda382334fc290e8e914bbbac/55_Sony.png?fm=webp&q=80" group-title="Entretenimiento" , SONY HD
 http://181.13.173.86:8000/play/a0ao/index.m3u8
